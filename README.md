@@ -170,7 +170,7 @@ python -m unittest discover tests
 
 ### `tests/`
 
-- **`test_data.py`**: Tests for data loading and preprocessing functions.
+- **`test_data.py`**: Prepare test data.
 - **`test_models.py`**: Tests for individual recommendation models.
 - **`test_recommendations.py`**: Integration tests for the recommendation system.
 
