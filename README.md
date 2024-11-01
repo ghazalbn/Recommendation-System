@@ -28,7 +28,7 @@ The recommendation system is designed to handle a large product catalog with mul
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/ghazalbn/recommendation_system.git
+   git clone https://github.com/ghazalbn/Recommendation-System.git
    cd recommendation_system
    ```
 
